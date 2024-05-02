@@ -35,6 +35,10 @@ return {
   	},
   },
   {
+    "github/copilot.vim",
+    lazy = false,
+  },
+  {
     "fatih/vim-go",
     lazy = false,
   },
